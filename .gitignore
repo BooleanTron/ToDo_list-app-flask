@@ -1,0 +1,6 @@
+# Ignore the instance folder (contains sensitive or environment-specific data)
+instance/
+
+# Ignore Python cache files and folders
+__pycache__/
+*.pyc
